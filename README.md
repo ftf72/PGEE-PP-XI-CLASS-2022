@@ -8,8 +8,8 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLYRUl3nDsL-SATpMgvhedXMhRnAWYV
 1. От тук https://www.python.org/downloads/ изтегляте последната версия на Python и я инсталирате на вашите компютри.
 2. От тук https://www.jetbrains.com/pycharm/download/#section=windows изтеглате Community версията на PyCharm и я инсталирате на вашите компютри
 Видеото на курса започва с тези две стъпки. Там можете да видите с какви настройки се инсталират Python и PyCharm.
-4. Тези от вас (ако има такива), които нямат регистрация в GitHub, нека да си направят регистрация в GitHub.
-5. Тези от вас (ако има такива), които нямат GitHub Desktop, нека да го изтеглят от тук:
+3. Тези от вас (ако има такива), които нямат регистрация в GitHub, нека да си направят регистрация в GitHub.
+4. Тези от вас (ако има такива), които нямат GitHub Desktop, нека да го изтеглят от тук:
 https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
 и да го инсталират на компютрите си.
 Всичко по-горе и най-вече изпълнението на стъпки от 1 до 4 са основатана която ще стъпим и са гаранция за нормално протичане на пройзводствената ни практика във вариант Home Office, така, че приканвам всички внимателно да се запознаят с горното съдържание и да изпълнят всичко което се изисква.
